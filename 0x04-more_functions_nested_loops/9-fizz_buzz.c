@@ -1,11 +1,8 @@
 #include <stdio.h>
 /**
- * A program that prints the numbers from 1 to 100,
- * followed by a new line. But for multiples of three print Fizz 
- * instead of the number and for the multiples of five print Buzz.
- * For numbers which are multiples of both three and five print FizzBuzz.
- * 
- * Returns: 0
+ * main - check the code for Holberton School students.
+ *
+ * Return: void.
  */
 
 int main(void)
