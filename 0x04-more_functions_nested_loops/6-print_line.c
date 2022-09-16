@@ -1,13 +1,9 @@
 #include "main.h"
 
 /**
- * print_line - function that draws a 
- * straight line in the terminal.
- * 
- * @n: the number of times the character _ 
- * should be printed.
- * 
- * Return: 0
+ * print_line - check for a digit
+ * @n : number of _ to be printed
+ * Return:void
  */
 
 void print_line(int n)
